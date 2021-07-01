@@ -18,3 +18,5 @@ How to run:
 Please note that this software runs for a template brain as anatomical landmarks are hardcoded.
 
 In case of questions/issues feel free to reach out either over GitHub or over e-mail (grens@uwo.ca)
+
+These files may be removed and shared in the foreseeable future through another GitHub from my institution (Brain and Mind Institute; Western University)
